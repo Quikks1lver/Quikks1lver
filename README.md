@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👋
 
-My name's **Adam**, and I'm a sophomore at UCF, pursuing a B.S. in Computer Science with a minor in Statistics.
+My name's **Adam**, and I'm a junior at UCF, pursuing a B.S. in Computer Science with a minor in Statistics.
 
 As an aspiring Software Engineer, I love working on programming projects, so feel free to take a look at my work, and check out my [LinkedIn](https://www.linkedin.com/in/adam-n-fernandes/) if you'd like to connect 🙂.
 
